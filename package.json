@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@chakra-ui/icons": "^2.0.2",
-    "@chakra-ui/react": "^2.2.1",
     "@truffle/hdwallet-provider": "^2.0.9",
     "solc": "^0.8.14-fixed"
   }
